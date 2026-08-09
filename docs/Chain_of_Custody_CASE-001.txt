@@ -1,0 +1,29 @@
+CHAIN OF CUSTODY
+========================================
+Case Number: CASE-001
+Evidence Item: 32GB USB Drive (SanDisk Cruzer Blade)
+Serial Number: 4C530001141015109093
+Acquisition Date: 09-08-2026
+Acquisition Time: 03:43 AM IST
+Examiner: Rahul Kumar
+
+Acquisition Details:
+- Tool Used: FTK Imager 3.1.2.0
+- Acquisition Type: Physical Drive (Bit-for-bit)
+- Image Format: Raw (dd)
+- Write-Blocker: Software (FTK built-in)
+- Source Drive: USB (E:)
+- Destination Image: USB_32GB_001.001
+- Storage Path: F:\Forensics\Case001\
+
+Integrity Verification:
+- MD5 Hash: d0a34700e0dd53239f590d1d1b7834bb
+- SHA-1 Hash: 5e1f97a0f653af5dbe09facc1d11e5acafd995a5
+- Verification Result: MATCH (Integrity Confirmed)
+- Cross-Hash Validation: PASSED (MD5 match on extracted file)
+- Bad Sectors: None Found
+
+Remarks: Image is forensically sound, logically verified, and admissible as evidence.
+
+Examiner Signature: Rahul Kumar
+========================================
