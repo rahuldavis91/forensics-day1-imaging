@@ -111,6 +111,8 @@ forensics-day1-imaging/
 - **Email:** rk6989834@gmail.com
 
 ---
+## 📁 Related Projects
+- [**Day 2: File Carving & Deleted Data Recovery**] (https://github.com/rahuldavis91/forensics-day2-filecarving)
 
 > *"This is not just a project — this is the foundation of a forensic career."*
 
